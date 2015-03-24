@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="uganda_villages_gps_beadell" id="uganda_villages_gps_beadell">
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Location" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+</Schema>
+<Folder><name>uganda_villages_gps_beadell</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">2.17919</SimpleData>
+		<SimpleData name="Location">AP?</SimpleData>
+		<SimpleData name="Longitude">32.7918</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.7918,2.17919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">1.068104</SimpleData>
+		<SimpleData name="Location">BB</SimpleData>
+		<SimpleData name="Longitude">33.77849</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.77849,1.068104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">0.260897</SimpleData>
+		<SimpleData name="Location">BD</SimpleData>
+		<SimpleData name="Longitude">33.929442</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.929441666666662,0.260896666666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">1.619185</SimpleData>
+		<SimpleData name="Location">BG</SimpleData>
+		<SimpleData name="Longitude">33.289898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.289898461538463,1.619185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">1.011333</SimpleData>
+		<SimpleData name="Location">BK</SimpleData>
+		<SimpleData name="Longitude">33.861239</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.861239166666664,1.011333333333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">0.938593</SimpleData>
+		<SimpleData name="Location">BN</SimpleData>
+		<SimpleData name="Longitude">33.974824</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.974824,0.938593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">0.248867</SimpleData>
+		<SimpleData name="Location">BU</SimpleData>
+		<SimpleData name="Longitude">33.970927</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.970926666666664,0.248866666666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">0.31153</SimpleData>
+		<SimpleData name="Location">BV</SimpleData>
+		<SimpleData name="Longitude">33.30379</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.30379,0.31153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">1.907652</SimpleData>
+		<SimpleData name="Location">DK</SimpleData>
+		<SimpleData name="Longitude">33.15961</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.15961,1.9076525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">1.332072</SimpleData>
+		<SimpleData name="Location">JN</SimpleData>
+		<SimpleData name="Longitude">32.73818</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.73818,1.332071666666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">1.04596</SimpleData>
+		<SimpleData name="Location">KA</SimpleData>
+		<SimpleData name="Longitude">33.77095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.77095,1.04596</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">0.97719</SimpleData>
+		<SimpleData name="Location">KB</SimpleData>
+		<SimpleData name="Longitude">30.5465</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.5465,0.97719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">0.36465</SimpleData>
+		<SimpleData name="Location">KK</SimpleData>
+		<SimpleData name="Longitude">30.27996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.27996,0.36465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">0.1667</SimpleData>
+		<SimpleData name="Location">KL</SimpleData>
+		<SimpleData name="Longitude">32.7667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.7667,0.1667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">1.00652</SimpleData>
+		<SimpleData name="Location">KP</SimpleData>
+		<SimpleData name="Longitude">33.85048</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.85048,1.00652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">0.08208</SimpleData>
+		<SimpleData name="Location">KT</SimpleData>
+		<SimpleData name="Longitude">32.48505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.48505,0.08208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">1.019732</SimpleData>
+		<SimpleData name="Location">KW</SimpleData>
+		<SimpleData name="Longitude">33.8737</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.8737,1.0197325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">1.4516</SimpleData>
+		<SimpleData name="Location">KY</SimpleData>
+		<SimpleData name="Longitude">33.65443</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.65443,1.4516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">2.281353</SimpleData>
+		<SimpleData name="Location">MF</SimpleData>
+		<SimpleData name="Longitude">31.592464</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.592463888888911,2.281352777777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">1.3489</SimpleData>
+		<SimpleData name="Location">MK</SimpleData>
+		<SimpleData name="Longitude">33.89418</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.89418,1.3489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">0.30352</SimpleData>
+		<SimpleData name="Location">MP</SimpleData>
+		<SimpleData name="Longitude">30.53209</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.53209,0.30352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">1.61945</SimpleData>
+		<SimpleData name="Location">MS</SimpleData>
+		<SimpleData name="Longitude">31.718617</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.718616666666666,1.61945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">3.646183</SimpleData>
+		<SimpleData name="Location">MY</SimpleData>
+		<SimpleData name="Longitude">31.691333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.691333333333333,3.646183333333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">0.904065</SimpleData>
+		<SimpleData name="Location">NA</SimpleData>
+		<SimpleData name="Longitude">33.87373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.87373,0.904065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">0.86313</SimpleData>
+		<SimpleData name="Location">NB</SimpleData>
+		<SimpleData name="Longitude">33.72929</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.72929,0.86313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">2.43837</SimpleData>
+		<SimpleData name="Location">OG</SimpleData>
+		<SimpleData name="Longitude">32.91236</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.91236,2.43837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">0.5194</SimpleData>
+		<SimpleData name="Location">OK</SimpleData>
+		<SimpleData name="Longitude">34.118511</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.118511,0.5194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">3.2675</SimpleData>
+		<SimpleData name="Location">OM</SimpleData>
+		<SimpleData name="Longitude">31.1431</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.1431,3.2675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">1.52543</SimpleData>
+		<SimpleData name="Location">OS</SimpleData>
+		<SimpleData name="Longitude">33.49686</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.49686,1.52543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">1.86652</SimpleData>
+		<SimpleData name="Location">OT</SimpleData>
+		<SimpleData name="Longitude">33.23694</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.23694,1.86652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">2.36695</SimpleData>
+		<SimpleData name="Location">OYa</SimpleData>
+		<SimpleData name="Longitude">32.52584</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.52584,2.36695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">3.05</SimpleData>
+		<SimpleData name="Location">PD</SimpleData>
+		<SimpleData name="Longitude">33.2167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.2167,3.05</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">0.260247</SimpleData>
+		<SimpleData name="Location">SI</SimpleData>
+		<SimpleData name="Longitude">34.017553</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.017553333333339,0.260246666666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">1.50222</SimpleData>
+		<SimpleData name="Location">SR</SimpleData>
+		<SimpleData name="Longitude">33.524975</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.524975,1.50222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">0.61208</SimpleData>
+		<SimpleData name="Location">TR</SimpleData>
+		<SimpleData name="Longitude">34.185535</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.185535,0.61208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#uganda_villages_gps_beadell">
+		<SimpleData name="Latitude">1.9242</SimpleData>
+		<SimpleData name="Location">UGT</SimpleData>
+		<SimpleData name="Longitude">33.156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.156,1.9242</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
